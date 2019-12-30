@@ -6,3 +6,5 @@ extractor. The ISPRS Vaihingen dataset is publicly available online.
 Env.yml containing the relevant dependendencies coming soon.
 
 Details on how to run the notebook coming soon.
+
+*White paper explaining the thought process, and detailing the results is attached (.pdf)*
