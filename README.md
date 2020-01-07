@@ -5,4 +5,4 @@ extractor. The ISPRS Vaihingen dataset is publicly available online.
 
 Dependencies are stored in the env.yml. A simple pip install will fill in any other missing python libraries. PyTorch >= 0.4
  
-*White paper explaining the thought process, and detailing the results is attached (.pdf)*
+*White paper on methodology is attached (.pdf)*
